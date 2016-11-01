@@ -73,6 +73,6 @@ void test(int number)
 	if(_returnCheckSequence == 0)
 		cout << "Fail"<<endl;
 	else
-		cout << _returnCheckSequence << " - Номер, начиная с которого будет получен набор всех цифр"<<endl;
+		cout << _returnCheckSequence << " - Nomer, nachinaya s kotorogo budet poluchen nabor vsekh tsifr"<<endl;
 	cout << endl;
 }
